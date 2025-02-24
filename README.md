@@ -1,23 +1,11 @@
 # plugin.video.star.plus
-## Español
-Star+ para Kodi
-
-Es casi usable!
-
-Esta es una version modificada del addon Disney+ de slyguy
-
-Yo no tengo tiempo para para trabajar en esto, si estas interesado en continuar este trabajo eres biemvenido
-
-Funciona para Series, Peliculas y Eventos en vivo (En Destacados), en este ultimo puede que tengas que seleccionar una tasa de trasnferencia baja (~3.1Mbit/s) para que funcione apropiadamente.
-
-Instalación:
-- Primero que nada instala el repo de slyguy, y instala el addon de Disney+ (por las dependencias)
-- Copia este repositorio a .kodi/addons, en algo como plugin.video.star.plus
-- Habilita el addon en Mis addons, de ser necesario
-- Ve al addon y haz login usando tus credenciales
 
 ---
-## English
+
+## Star plus has been discontinued
+
+---
+
 Star+ for kodi
 
 Is almost a usable thing!
